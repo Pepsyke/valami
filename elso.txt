@@ -1,1 +1,4 @@
 valami string
+
+
+meg vmi stringecske
