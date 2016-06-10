@@ -1,4 +1,4 @@
 valami string
 
-
+hat ide meg kell vmi
 meg vmi stringecske
