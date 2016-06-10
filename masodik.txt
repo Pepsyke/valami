@@ -1,1 +1,3 @@
 megint vmi string
+
+ez egy string
